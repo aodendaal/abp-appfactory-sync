@@ -1,3 +1,6 @@
-# ABP.AppFactory.Sync
+# Abp.AppFactory.Sync
 
-See documentation [here]()
+
+ASPNET Boilerplate SignalR Hub Module for live updates on edited entities.
+
+See documentation for usage [here]()

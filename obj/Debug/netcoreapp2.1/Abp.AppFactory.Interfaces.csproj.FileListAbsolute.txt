@@ -1,0 +1,9 @@
+C:\Source\Repos\CoreSignalRTest\aspnet-core\src\Abp.AppFactory.Interfaces\bin\Debug\netcoreapp2.1\Abp.AppFactory.Interfaces.deps.json
+C:\Source\Repos\CoreSignalRTest\aspnet-core\src\Abp.AppFactory.Interfaces\bin\Debug\netcoreapp2.1\Abp.AppFactory.Interfaces.dll
+C:\Source\Repos\CoreSignalRTest\aspnet-core\src\Abp.AppFactory.Interfaces\bin\Debug\netcoreapp2.1\Abp.AppFactory.Interfaces.pdb
+C:\Source\Repos\CoreSignalRTest\aspnet-core\src\Abp.AppFactory.Interfaces\obj\Debug\netcoreapp2.1\Abp.AppFactory.Interfaces.csprojAssemblyReference.cache
+C:\Source\Repos\CoreSignalRTest\aspnet-core\src\Abp.AppFactory.Interfaces\obj\Debug\netcoreapp2.1\Abp.AppFactory.Interfaces.csproj.CoreCompileInputs.cache
+C:\Source\Repos\CoreSignalRTest\aspnet-core\src\Abp.AppFactory.Interfaces\obj\Debug\netcoreapp2.1\Abp.AppFactory.Interfaces.AssemblyInfoInputs.cache
+C:\Source\Repos\CoreSignalRTest\aspnet-core\src\Abp.AppFactory.Interfaces\obj\Debug\netcoreapp2.1\Abp.AppFactory.Interfaces.AssemblyInfo.cs
+C:\Source\Repos\CoreSignalRTest\aspnet-core\src\Abp.AppFactory.Interfaces\obj\Debug\netcoreapp2.1\Abp.AppFactory.Interfaces.dll
+C:\Source\Repos\CoreSignalRTest\aspnet-core\src\Abp.AppFactory.Interfaces\obj\Debug\netcoreapp2.1\Abp.AppFactory.Interfaces.pdb

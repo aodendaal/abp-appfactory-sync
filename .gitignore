@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Abp.AppFactory.Sync
+/bin/Debug/netcoreapp2.1/Abp.AppFactory.Interfaces.dll
+/bin/Debug/netcoreapp2.1
+/obj/Debug/netcoreapp2.1
+/obj
